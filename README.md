@@ -12,27 +12,7 @@ C:\temp\jetty>echo off
 you will want to connect the Okta On Prem agent to localhost:8080/scim"
 I'm going to open a webpage to that address and get a list of Users"
 and start the server.. Give a servers a few seconds to spin up"
-
-           ;:     ;;
-           
-           ;:     ;;
-           
-     ``    ;:  `. ;;``   `````
-     
-   `;';'.  ;: :;: ;;;;  ;;;';;
-   
-   ;;:.';` ;::;:  ;;.. :;:.;;;
-   
-   ;:  `;: ;;;;   ;;   ;;   ;;
-   
-   ;,  `;: ;;;'`  ;;   ';   ;;
-   
-   ;'``;;` ;:`;;` :;:` ;;. :;;`
-   
-   .;;;;:  ;: .;;  ;;;``';;;';;
-   
-    `:;.   ;,  ,;;  .'.  ,;: ,;
-                                                      .
+                                           .
                                                      .
 Email me if you have any questions pmcdowell@okta.com
 
